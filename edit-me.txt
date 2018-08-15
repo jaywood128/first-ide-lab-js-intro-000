@@ -1,1 +1,2 @@
 annyeonghaseyo, baby! 
+console.log("Hello text editor!")
